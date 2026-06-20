@@ -39,9 +39,3 @@ python train_partial_obs.py --configs lg_partial_obs lg_no_position lg_no_angle 
 ```
 
 All hyperparameters are defined as plain dicts in the notebook (cell 2) and saved to `results/<exp_name>/seed_<N>/config.json` at the start of each run. Seeds used: **42, 123, 456**.
-
-
-
-## Video
-
-`Final Assignment.mp4` — screen recording walkthrough of the code and results (≤ 10 min).
